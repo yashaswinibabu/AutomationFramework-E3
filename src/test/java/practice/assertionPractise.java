@@ -10,7 +10,9 @@ public class assertionPractise {
 	public void practice()
 	{
 		System.out.println("step-1");
-		System.out.println("step-2");
+		System.out.println("step-2");   
+		
+		
 		
 		Assert.assertEquals(1, 0);//1==1
 		System.out.println("step-3");
